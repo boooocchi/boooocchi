@@ -3,11 +3,11 @@
 
 - 🖥️ <a href="https://portfolio-kotaito-development.vercel.app/" target="blank">Portfolio</a>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning: **Next.js**
 
-- 📫 How to reach me **kotaito.dev@gmail.com**
+- 📫 How to reach me: **kotaito.dev@gmail.com**
 
-- ⚡ Fun fact **used to work at 300yo incense company**
+- ⚡ Fun fact: **used to work at 300yo incense company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
