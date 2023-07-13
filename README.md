@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kota Ito</h1>
 <h3 align="center">A passionate frontend developer in Canada</h3>
 
+- 🖥️ <a href="https://portfolio-kotaito-development.vercel.app/" target="blank">Portfolio</a>
 
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **kotaito.dev@gmail.com**
 
