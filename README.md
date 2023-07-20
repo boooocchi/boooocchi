@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kota Ito</h1>
-<p align="center">As a <b>student developer</b> based in Vancouver, Canada,<br/> I am deeply passionate about coding and continuously strive to expand my skill set. <br/>Seeking for a <b>junior developer position</b> where I can contribute to exciting and innovative projects while continuing to grow as a developer.</p>
+<p align="center">As a <b>student developer</b> based in Vancouver, Canada,<br/> I am deeply passionate about coding and continuously strive to expand my skill set. <br/>Seeking for a <strong>junior developer position</strong> where I can contribute to exciting and innovative projects while continuing to grow as a developer.</p>
 
 - 🖥️ <a href="https://portfolio-kotaito-development.vercel.app/" target="blank">Portfolio</a>
 
