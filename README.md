@@ -9,20 +9,13 @@
 
 - ⚡ Fun fact: **used to work at 300yo incense company**
 
-<table>
-  <tr>
-    <td align="center" width="50">
-      <a href="https://linkedin.com/in/kota-ito-＠041212" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kota-ito-＠041212" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="50">
-      <a href="https://instagram.com/boooocchi" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boooocchi" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+
+| | |
+|:---:|:---:|
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kota-ito-＠041212" height="30" width="40" />](https://linkedin.com/in/kota-ito-＠041212) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boooocchi" height="30" width="40" />](https://instagram.com/boooocchi) |
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
