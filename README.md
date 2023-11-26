@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 
 
-|:---:|:---:|
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kota-ito-＠041212" height="30" width="40" />](https://linkedin.com/in/kota-ito-＠041212) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boooocchi" height="30" width="40" />](https://instagram.com/boooocchi) |
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kota-ito-＠041212" height="30" width="40" />](https://linkedin.com/in/kota-ito-＠041212) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boooocchi" height="30" width="40" />](https://instagram.com/boooocchi) 
 
 
 
