@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=react,next.js,js,ts,html,css,)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=react,next.js,js,ts,html,css,)(https://skillicons.dev)
 
 
 
