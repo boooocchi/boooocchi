@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **used to work at 300yo incense company**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex, align-items:center">
 <a href="https://linkedin.com/in/kota-ito-＠041212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kota-ito-＠041212" height="30" width="40" /></a>
 <a href="https://instagram.com/boooocchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boooocchi" height="30" width="40" /></a>
 </p>
