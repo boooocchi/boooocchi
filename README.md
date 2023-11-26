@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
   <a href="https://linkedin.com/in/kota-ito-＠041212" target="blank" style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kota-ito-＠041212" height="30" width="40" />
+    ![image](https://github.com/boooocchi/boooocchi/assets/111376639/97458a80-6817-4ab7-81c6-5f5ec34f2d0d)width="40" />
   </a>
   <a href="https://instagram.com/boooocchi" target="blank" style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boooocchi" height="30" width="40" />
