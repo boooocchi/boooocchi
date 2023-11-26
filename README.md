@@ -9,9 +9,6 @@
 
 - ⚡ Fun fact: **used to work at 300yo incense company**
 
-<h3 align="left">Connect with me:</h3>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; ">
@@ -25,13 +22,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p width="300">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,jest,postgres,tailwind,sass,bootstrap,git,figma" alt="Skill icons" />
 </a>
+</p>
 
 <h3>My GitHub Statistics:</h3>
 
-<p align="left" width="300"> 
+<p align="left" > 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=boooocchi&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boooocchi&layout=compact&theme=omni" />
 </p>
