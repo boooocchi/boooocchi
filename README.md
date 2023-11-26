@@ -14,11 +14,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; align-items: center; margin-right:10px;">
-  <a href="https://linkedin.com/in/kota-ito-＠041212" target="blank" style="display: flex; align-items: center;">
+<p align="left" style="display: flex; align-items: center; ">
+  <a href="https://linkedin.com/in/kota-ito-＠041212" target="blank" style="display: flex; align-items: center; margin-right:10px; text-decoration:none;">
         <img src="https://github.com/boooocchi/boooocchi/assets/111376639/086a38d8-193b-4b3e-8cb5-2e2007f23e03" alt="boooocchi" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/boooocchi" target="blank" style="display: flex; align-items: center;">
+  <a href="https://instagram.com/boooocchi" target="blank" style="display: flex; align-items: center; text-decoration:none;">
        <img src="https://github.com/boooocchi/boooocchi/assets/111376639/97458a80-6817-4ab7-81c6-5f5ec34f2d0d" alt="boooocchi" height="40" width="40" />
   </a>
 </p>
