@@ -24,7 +24,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p width="300">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,jest,postgres,tailwind,sass,bootstrap,git,figma" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,jest,postgres" alt="Skill icons" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=docker,redux,tailwind,sass,bootstrap,git,figma" alt="Skill icons" />
 </a>
 </p>
 
