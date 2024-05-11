@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kota Ito</h1>
 <p align="left">As a <b>student developer</b> based in Vancouver, Canada,<br/> I am deeply passionate about coding and continuously strive to expand my skill set. <br/>Seeking for a <strong>junior developer position</strong> where I can contribute to exciting and innovative projects<br/> while continuing to grow as a developer.</p>
 
-- 🖥️ <a href="https://portfolio-v2-boooocchi.vercel.app/" target="blank">Portfolio</a>
+- 🖥️ <a href="https://www.kotaito-portfolio-v2.com" target="blank">Portfolio</a>
 
 - 🌱 I’m currently learning: **Next.js**
 
